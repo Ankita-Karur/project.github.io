@@ -1,2 +1,0 @@
-# picitweb.github.io
-website
